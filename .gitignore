@@ -1,0 +1,18 @@
+﻿# Poetry
+.venv/
+poetry.lock
+
+# PyCharm
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python
+*.egg-info/
+build/
+dist/
+.coverage
+htmlcov/
+.pytest_cache/
